@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Jason",
+      "email": "jason@naver.kr",
+      "department": "engineering"
+    },
+    {
+      "id": 2,
+      "name": "Alice",
+      "email": "alice@naver.kr",
+      "department": "engineering"
+    },
+    {
+      "id": 3,
+      "name": "Brian",
+      "email": "brian@naver.kr",
+      "department": "marketing"
+    },
+    {
+      "id": 4,
+      "name": "Erica",
+      "email": "erica@naver.kr",
+      "department": "marketing"
+    },
+    {
+      "id": 5,
+      "name": "Wilson",
+      "email": "wilson@naver.kr",
+      "department": "sales"
+    },
+    {
+      "id": 6,
+      "name": "Olivia",
+      "email": "olivia@naver.kr",
+      "department": "engineering"
+    },
+    {
+      "id": 7,
+      "name": "Liam",
+      "email": "liam@naver.kr",
+      "department": "marketing"
+    },
+    {
+      "id": 8,
+      "name": "Ben",
+      "email": "ben@naver.kr",
+      "department": "sales"
+    },
+    {
+      "id": 9,
+      "name": "William",
+      "email": "william@naver.kr",
+      "department": "sales"
+    },
+    {
+      "id": 10,
+      "name": "Alex",
+      "email": "alex@naver.kr",
+      "department": "sales"
+    }
+  ]
